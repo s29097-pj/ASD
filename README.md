@@ -1,7 +1,7 @@
 # ASD
 ## Algorytmy i struktury danych
 
-### Prowadzący zajęcia:
+### Prowadzący zajęcia
 - dr inż. Anna Nenca <nenca@pjwstk.edu.pl>
 - dr hab. Marek Bednarczyk
 
@@ -14,10 +14,13 @@
 ### Oprogramowanie
 - [Python](https://www.python.org/downloads/windows/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
-- [Konfiguracja IDE](https://stackoverflow.com/questions/32768371/how-can-i-add-interpreter-to-pycharm)
 
-### Materiał realizowany na zajęciach.
-1. Notacje asymptotyczne
-2. Heapsort - sortowanie przez kopcowanie
-3. Quicksort - sertowanie szybkie
-4. Algorytmy zachłanne, kody Huffmana
+### Tematy realizowane na zajęciach
+1. Notacje asymptotyczne.
+2. Heapsort - sortowanie przez kopcowanie.
+3. Quicksort - sortowanie szybkie.
+4. Algorytmy zachłanne, kody Huffmana.
+5. Rekurencja.
+6. Najdłuższy wspólny podciąg (z ang. LCS - Longest Common Subsequence).
+7. Problem decyzyjny P vs NP
+   (ang. nondeterministic polynomial (NP) - niedeterministycznie wielomianowy, deterministic polynomial (P) - deterministycznie wielomianowy).
